@@ -1,0 +1,255 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #6c6c6f;
+    background-color: #fff;
+}
+/* header start  */
+.c_header{
+    padding: 20px 0 20px 0;
+    background-color: #F7F7F7;
+}
+.c_nav1{
+
+}
+.c_nav1 img{
+    max-width: 80px;
+}
+.c_nav2{
+
+}
+.c_nav2 a{
+    color: #000;
+    font-size: 14px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    line-height: 0.8;
+    padding: 40px 15px;
+}
+
+/* header end  */
+/* banner start  */
+.banner{
+    padding-top: 50px;
+    padding-bottom: 100px;
+    background-color: #F7F7F7;
+}
+.bbnd{
+
+}
+.bbnd h3{
+    font-family: "Roboto", sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    color: #FE7214;
+    text-transform: capitalize;
+}
+.bbnd h1{
+    font-family: "Roboto", sans-serif;
+    font-size: 60px;
+    font-weight: 700;
+    color: #112E41;
+}
+.bbnd p{
+    margin-top: 30px;
+    margin-bottom: 75px;
+    line-height: 25px;
+}
+.bbnd button{
+    font-weight: 700;
+    width: 180px;
+    height: 55px;
+    background-color: #FE7214;
+    color: white;
+    border: none;
+    border-radius: 45px;
+    transition: .30s;
+}
+.bbnd button:hover{
+    background-color: #ffffff;
+    color: #112E41;
+    border: none;
+}
+.bbnd2 {
+
+}
+.bbnd2 img {
+    width: 100%;
+    height: auto;
+}
+/* banner end  */
+/* .about start  */
+.about {
+    padding: 150px 0 150px 0;
+}
+.imggrp{
+    position: relative;
+}
+.imggrp0{
+    position: absolute;
+    left: 11%;
+    top: 22px;
+    z-index: -1;
+}
+.imggrp1{
+    margin-top: 80px;
+    width: 100%;
+}
+.imggrp2{
+    margin-bottom: 60px;
+    width: 100%;
+}
+.imggrp h2{
+    font-family: "Roboto", sans-serif;
+    font-size: 43px;
+    font-weight: 700;
+    color: #112E41;
+}
+.abtcmp{
+    padding-left: 60px;
+    padding-right: 332px;
+}
+.abtcmp h3{
+   font-size: 14px;
+}
+.abtcmp h1{
+   font-size: 40px;
+   margin: 15px 0 25px 0;
+}
+.abtcmp h2{
+    font-size: 20px;
+    font-weight: 500;
+    color: #112E41;
+    line-height: 30px;
+}
+.abtcmp p{
+    margin-bottom: 55px;
+    line-height: 27px;
+}
+/* .about end  */
+/* <!-- advertisement start  --> */
+.advers{
+    padding: 0 0 150px 0;
+}
+
+.aditm1{
+
+}
+.aditm1 p{
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    margin-bottom: 30px;
+    color: #FE7214;
+    text-transform: capitalize;
+}
+.aditm1 h3{
+    font-family: "Roboto", sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    color: #112E41;
+}
+.aditm2{
+    margin-top: 75px;
+    padding: 40px 0 50px 0;
+    border: 1px solid #aeb4cd;
+    box-shadow: 0px 20px 40px rgb(0 0 0 / 10%);
+}
+.aditm2 img{
+    
+}
+.img2{
+
+}
+.img3{
+
+}
+.img4{
+
+}
+.aditm2 h1{
+    font-family: "Roboto", sans-serif;
+    font-size: 22px;
+    font-weight: 500;
+    margin: 30px 0 35px 0;
+    color: #112E41;
+}
+.aditm2 p{
+    padding: 0 25px 0 25px;
+}
+/* <!-- advertisement start  --> */
+/* <!-- client work start  --> */
+.crtwork{
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.writingpart{
+    padding:0px 70px 0 200px;
+}
+.writingpart2{
+    padding:0px 200px 0 70px;
+}
+.writingpart h4{
+    font-size: 14px;
+    font-weight: 500;
+    margin-bottom: 30px;
+    color: #FE7214;
+    text-transform: capitalize;
+}
+.writingpart h2{
+    font-size: 28px;
+    font-weight: 700;
+    margin: 30px 0 35px 0;
+    color: #112E41;
+}
+.writingpart p{
+
+}
+.writingpart a{
+    font-size: 14px;
+    font-weight: 600;
+    color: #112E41;
+    text-decoration: none;
+}
+.imgpart{
+
+}
+.imgpart img{
+    width: 100%;
+}
+/* <!-- client work end  --> */
+/* counter start  */
+body{
+    font-size:18px;
+    font-weight: 400;
+}
+.p-y-2 {
+padding-top: 28px;
+padding-bottom: 28px;
+}
+.p-y-3 {
+padding-top: 45px;
+padding-bottom: 45px;
+}
+.m-b-1 {
+margin-bottom: 18px; 
+}
+.m-t-1 { 
+margin-top: 18px;
+}
+
+.main_counter_area{
+    
+    background-size: cover;
+    overflow: hidden;
+}
+.main_counter_area .main_counter_content .single_counter{
+    background: #000000;
+        color: #fff;
+}
+.main_counter_area .main_counter_content .single_counter i{
+    font-size:36px;
+}
+
+/* counter end  */
